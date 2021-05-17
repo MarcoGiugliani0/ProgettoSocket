@@ -1,0 +1,17 @@
+C:\Users\Marco\source\repos\Host2\Host2\bin\Debug\Host2.exe.config
+C:\Users\Marco\source\repos\Host2\Host2\bin\Debug\Host2.exe
+C:\Users\Marco\source\repos\Host2\Host2\bin\Debug\Host2.pdb
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\Host2.csprojAssemblyReference.cache
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\MainWindow.g.cs
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\App.g.cs
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\Host2_MarkupCompile.cache
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\Host2_MarkupCompile.lref
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\MainWindow.baml
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\Host2.g.resources
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\Host2.Properties.Resources.resources
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\Host2.csproj.GenerateResource.cache
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\Host2.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\Host2.exe
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\Host2.pdb
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\NomeUtente.g.cs
+C:\Users\Marco\source\repos\Host2\Host2\obj\Debug\NomeUtente.baml
